@@ -59,3 +59,24 @@ footer {
     border-radius: 50%;
     object-fit: cover;
 }
+.project {
+    margin: 2rem 0;
+    padding: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 3px;
+    margin-top: 0.5rem;
+}
+
+.btn:hover {
+    background-color: #555;
+}
