@@ -80,3 +80,28 @@ footer {
 .btn:hover {
     background-color: #555;
 }
+form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.contact-info {
+    margin-top: 2rem;
+    text-align: center;
+}
